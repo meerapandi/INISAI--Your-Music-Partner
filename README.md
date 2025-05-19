@@ -2,6 +2,9 @@
 
 This is a full-stack music web app named **Inisai**, featuring a **secure login system** powered by PHP and XAMPP, and a music front-end hosted at [inisai-bymeera.netlify.app](https://inisai-bymeera.netlify.app).
 
+[![Watch the video](https://img.youtube.com/vi/4JNOBmIAaAI/hqdefault.jpg)](https://youtu.be/4JNOBmIAaAI?si=2D4Q4OftdvtMAfHo)
+
+
 ---
 
 ## 🛡️ Secure Login System
